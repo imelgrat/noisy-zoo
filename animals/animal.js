@@ -47,7 +47,7 @@ class Animal {
                 if (delimiterPattern.test(part)) {
                     result = result.concat(part);
                 }
-                else { // It's a word, add the animal sound.
+                else { // It's a word, add it and concatenate the animal sound to the final message.
                     result = result.concat(part, this.animalSound);
                 }
             }
