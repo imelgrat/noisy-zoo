@@ -24,7 +24,7 @@
   "homepage": "https://github.com/imelgrat/noisy-zoo#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
